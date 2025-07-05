@@ -1,1 +1,2 @@
-This is the my sample design frontend project explore.
+It is just a sample frontend project.
+https://sample-design-page.vercel.app/
